@@ -59,3 +59,9 @@ Berikut beberapa branch yang sudah dibuat:
   - Contoh: Jika kamu coding dengan Python, pilih `Branch-Python`.
 
 > ⚠️ Setiap anggota wajib menggunakan branch sesuai bahasa yang digunakan agar tidak terjadi konflik atau bentrok kode.
+
+### 2. Push Branch ke GitHub
+   ```bash
+   git add .
+   git commit -m "Tambah fitur validasi input"
+   git push origin fitur-validasi
