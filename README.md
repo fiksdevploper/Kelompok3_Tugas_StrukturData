@@ -27,9 +27,6 @@ Sebelum memulai, pastikan kamu sudah menginstal:
      ```
      git clone https://github.com/fiksdevploper/Kelompok3_Tugas_StrukturData.git
      ```
-   - Jika ingin cepat bisa langsung salin url ini di terminal kalian:
-       ```
-       git clone https://github.com/fiksdevploper/Kelompok3_Tugas_StrukturData.git
 
 # 🌿 Cara Menggunakan Branch GitHub di VS Code
 
