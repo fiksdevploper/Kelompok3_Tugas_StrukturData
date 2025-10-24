@@ -19,7 +19,7 @@ Sebelum memulai, pastikan kamu sudah menginstal:
 
 2. **Klik tombol `Code`**
    - Pilih opsi `HTTPS`
-   - Buka terminal dan jalankan perintah berikut:
+   - Buka terminal dengan tekan tombol windows + r lalu ketik cmd dan jalankan perintah berikut:
      ```
      git clone https://github.com/fiksdevploper/Kelompok3_Tugas_StrukturData.git
      ```
