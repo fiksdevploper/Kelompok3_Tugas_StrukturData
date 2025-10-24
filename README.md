@@ -25,3 +25,7 @@ Sebelum memulai, pastikan kamu sudah menginstal:
 3. **Buka terminal dan jalankan perintah berikut:**
    ```bash
    git clone https://github.com/fiksdevploper/Kelompok3_Tugas_StrukturData.git
+
+4. **Masuk Ke Project
+   '''bash
+   cd Kelompok3_Tugas_StrukturData.git
