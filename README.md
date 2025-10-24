@@ -63,5 +63,5 @@ Berikut beberapa branch yang sudah dibuat:
 ### 2. Push Branch ke GitHub
    ```bash
    git add .
-   git commit -m "Tambah fitur validasi input"
+   git commit -m "tulis pesan apa aja yang udah kamu kerjain di sini ya"
    git push origin fitur-validasi
