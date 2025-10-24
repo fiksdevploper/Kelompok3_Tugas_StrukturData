@@ -1,31 +1,31 @@
-# 📦 Tutorial Clone Repository GitHub
+# 🌿 Cara Menggunakan Branch GitHub di VS Code
 
-Panduan singkat untuk meng-clone repository GitHub ke komputer lokal menggunakan Git.
+Panduan ini menjelaskan langkah-langkah menggunakan dan berpindah antar branch di GitHub langsung dari Visual Studio Code.
 
-## 🛠️ Prasyarat
+## 📌 Apa Itu Branch?
 
-Sebelum memulai, pastikan kamu sudah menginstal:
+Branch adalah cabang dari project utama yang bisa digunakan untuk mengembangkan fitur baru, melakukan eksperimen, atau revisi kode. Dengan branch, kamu bisa bekerja tanpa mengganggu kode utama di branch `main`.
 
-- [Git](https://git-scm.com/downloads)
-- Terminal / Command Prompt
-- Akun GitHub (opsional, jika ingin mengakses repo privat)
+---
 
-## 📥 Langkah-langkah Clone Repo
+## 📂 Branch yang Tersedia di Proyek Ini
 
-1. **Buka halaman repository GitHub**
-   - https://github.com/fiksdevploper/Kelompok3_Tugas_StrukturData
+Berikut beberapa branch yang sudah dibuat:
 
-2. **Klik tombol `Code`**
-   - Pilih opsi `HTTPS`
-   - Salin URL repo:
-     ```
-     https://github.com/fiksdevploper/Kelompok3_Tugas_StrukturData.git
-     ```
+- `Main` → *Branch Finall*
+- `Branch-PHP` → *Digunakan khusus untuk coding dengan bahasa PHP*
+- `Branch-C++` → *Digunakan khusus untuk coding dengan bahasa C++*
+- `Branch-Python` → *Digunakan khusus untuk coding dengan bahasa Python*
 
-3. **Buka terminal dan jalankan perintah berikut:**
-   ```bash
-   git clone https://github.com/fiksdevploper/Kelompok3_Tugas_StrukturData.git
+---
 
-4. **Masuk Ke Project
-   '''bash
-   cd Kelompok3_Tugas_StrukturData.git
+## 🧭 Langkah Menggunakan Branch di VS Code
+
+### 1. Melihat dan Memilih Branch
+
+- Buka VS Code dan buka folder project.
+- Lihat pojok kiri bawah, klik nama branch yang sedang aktif (misalnya `main`).
+- Akan muncul daftar branch. Pilih branch yang sesuai dengan bahasa pemrograman yang kamu pakai.
+  - Contoh: Jika kamu coding dengan Python, pilih `Branch-Python`.
+
+> ⚠️ Setiap anggota wajib menggunakan branch sesuai bahasa yang digunakan agar tidak terjadi konflik atau bentrok kode.
