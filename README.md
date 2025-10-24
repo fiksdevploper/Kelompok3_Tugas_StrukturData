@@ -16,7 +16,7 @@ Sebelum memulai, pastikan kamu sudah menginstal:
    - https://github.com/fiksdevploper/Kelompok3_Tugas_StrukturData
 
 2. **Klik tombol `Code`**
-   - Pilih opsi `HTTPS` atau `SSH`
+   - Pilih opsi `HTTPS`
    - Salin URL repo:
      ```
      https://github.com/fiksdevploper/Kelompok3_Tugas_StrukturData.git
