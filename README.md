@@ -19,11 +19,18 @@ Sebelum memulai, pastikan kamu sudah menginstal:
 
 2. **Klik tombol `Code`**
    - Pilih opsi `HTTPS`
+   - Pilih Opsi HTTPS lalu salin url ini:
+     ```
+     https://github.com/fiksdevploper/Kelompok3_Tugas_StrukturData.git
+     ```
    - Buka terminal dengan tekan tombol windows + r lalu ketik cmd dan jalankan perintah berikut:
      ```
      git clone https://github.com/fiksdevploper/Kelompok3_Tugas_StrukturData.git
      ```
-
+> ⚠️ Jika ingin cepat bisa langsung salin url ini di terminal kalian:
+       ```
+        git clone https://github.com/fiksdevploper/Kelompok3_Tugas_StrukturData.git
+        ```
 # 🌿 Cara Menggunakan Branch GitHub di VS Code
 
 Panduan ini menjelaskan langkah-langkah menggunakan dan berpindah antar branch di GitHub langsung dari Visual Studio Code.
