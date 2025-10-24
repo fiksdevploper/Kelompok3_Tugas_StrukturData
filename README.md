@@ -19,14 +19,10 @@ Sebelum memulai, pastikan kamu sudah menginstal:
 
 2. **Klik tombol `Code`**
    - Pilih opsi `HTTPS`
-   - Salin URL repo:
+   - Buka terminal dan jalankan perintah berikut:
      ```
-     https://github.com/fiksdevploper/Kelompok3_Tugas_StrukturData.git
+     git clone https://github.com/fiksdevploper/Kelompok3_Tugas_StrukturData.git
      ```
-
-3. **Buka terminal dan jalankan perintah berikut:**
-   ```bash
-   git clone https://github.com/fiksdevploper/Kelompok3_Tugas_StrukturData.git
 
 # 🌿 Cara Menggunakan Branch GitHub di VS Code
 
