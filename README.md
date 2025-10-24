@@ -1,3 +1,33 @@
+# 📦 Tutorial Clone Repository GitHub
+
+Panduan singkat untuk meng-clone repository GitHub ke komputer lokal menggunakan Git dan mengelola branch di Visual Studio Code.
+
+## 🛠️ Prasyarat
+
+Sebelum memulai, pastikan kamu sudah menginstal:
+
+- [Git](https://git-scm.com/downloads)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- Akun GitHub (opsional, jika ingin mengakses repo privat)
+
+---
+
+## 📥 Langkah-langkah Clone Repo
+
+1. **Buka halaman repository GitHub**
+   - [Kelompok3_Tugas_StrukturData](https://github.com/fiksdevploper/Kelompok3_Tugas_StrukturData)
+
+2. **Klik tombol `Code`**
+   - Pilih opsi `HTTPS`
+   - Salin URL repo:
+     ```
+     https://github.com/fiksdevploper/Kelompok3_Tugas_StrukturData.git
+     ```
+
+3. **Buka terminal dan jalankan perintah berikut:**
+   ```bash
+   git clone https://github.com/fiksdevploper/Kelompok3_Tugas_StrukturData.git
+
 # 🌿 Cara Menggunakan Branch GitHub di VS Code
 
 Panduan ini menjelaskan langkah-langkah menggunakan dan berpindah antar branch di GitHub langsung dari Visual Studio Code.
