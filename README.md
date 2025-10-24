@@ -27,10 +27,10 @@ Sebelum memulai, pastikan kamu sudah menginstal:
      ```
      git clone https://github.com/fiksdevploper/Kelompok3_Tugas_StrukturData.git
      ```
-## ⚠️ Jika ingin cepat bisa langsung salin url ini di terminal kalian:
+   - Jika ingin cepat bisa langsung salin url ini di terminal kalian:
        ```
-        git clone https://github.com/fiksdevploper/Kelompok3_Tugas_StrukturData.git
-        ```
+       git clone https://github.com/fiksdevploper/Kelompok3_Tugas_StrukturData.git
+
 # 🌿 Cara Menggunakan Branch GitHub di VS Code
 
 Panduan ini menjelaskan langkah-langkah menggunakan dan berpindah antar branch di GitHub langsung dari Visual Studio Code.
