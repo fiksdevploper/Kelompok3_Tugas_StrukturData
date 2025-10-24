@@ -19,7 +19,7 @@ Sebelum memulai, pastikan kamu sudah menginstal:
 
 2. **Klik tombol `Code`**
    - Pilih opsi `HTTPS`
-   - Pilih Opsi HTTPS lalu salin url ini:
+   - Salin URL repo:
      ```
      https://github.com/fiksdevploper/Kelompok3_Tugas_StrukturData.git
      ```
