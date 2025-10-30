@@ -1,6 +1,7 @@
 #include <iostream>
 #include <iomanip>
 #include <string>
+#include <conio.h>
 using namespace std;
 
 float hitungNilaiAkhir(float kehadiran, float forum, float tugasIndividu,
@@ -23,6 +24,8 @@ char tentukanHurufMutu(float nilai) {
 }
 
 int main() {
+        system("color 1f");
+
     string nim, nama;
     float kehadiran, forum, tugasIndividu, tugasKelompok, uts, uas, project;
 
